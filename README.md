@@ -21,6 +21,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=How-Bout-No&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=How-Bout-No&layout=donut-vertical&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=dracula)
+![Stats](https://github-stats-extended.vercel.app/api?username=How-Bout-No&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)
+<!-- ![Stats](./profile/stats.svg) -->
+![Top Languages](./profile/top-langs.svg)
 </div>
