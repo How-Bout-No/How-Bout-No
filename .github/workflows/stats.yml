@@ -16,14 +16,14 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: stats
-          options: show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula
+          options: username=How-Bout-No&show=reviews,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: GitHub Readme TopLang Action
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: layout=donut-vertical&langs_count=4&theme=dracula
+          options: username=How-Bout-No&layout=donut-vertical&langs_count=4&theme=dracula
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Commit cards
