@@ -21,6 +21,6 @@ jobs:
       - name: GitHub Readme TopLang Action
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
-          card: top-lang
+          card: top-langs
           options: layout=donut-vertical&langs_count=4&theme=dracula
           
